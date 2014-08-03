@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brewmmer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="temperature_text">Temperature</string>
+    
+    <string name="refresh_interval">Refresh interval</string>
+    <string name="refresh_interval_sum">summary ;)</string>
+    <string name="refresh_interval_default">10</string>
+
+</resources>
