@@ -1,7 +1,7 @@
-package hu.brewm.brewmmer.activities;
+package hu.brewm.brewmdroid.activities;
 
-import hu.brewm.brewmmer.R;
-import hu.brewm.brewmmer.R.xml;
+import hu.brewm.brewmdroid.R;
+import hu.brewm.brewmdroid.R.xml;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
 import android.os.Bundle;

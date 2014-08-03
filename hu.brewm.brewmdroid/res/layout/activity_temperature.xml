@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="hu.brewm.brewmmer.activities.TemperatureActivity" >
+    tools:context="hu.brewm.brewmdroid.activities.TemperatureActivity" >
 
     <TextView
         android:id="@+id/temperature_value"

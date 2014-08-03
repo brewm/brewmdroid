@@ -1,4 +1,4 @@
-package hu.brewm.brewmmer;
+package hu.brewm.brewmdroid;
 
 import java.io.BufferedReader;
 import java.io.IOException;

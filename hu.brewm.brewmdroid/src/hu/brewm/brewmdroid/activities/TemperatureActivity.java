@@ -1,7 +1,7 @@
-package hu.brewm.brewmmer.activities;
+package hu.brewm.brewmdroid.activities;
 
-import hu.brewm.brewmmer.R;
-import hu.brewm.brewmmer.Utils;
+import hu.brewm.brewmdroid.R;
+import hu.brewm.brewmdroid.Utils;
 
 import java.text.DateFormat;
 import java.util.Date;
